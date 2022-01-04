@@ -70,7 +70,7 @@ My research focuses
 			
 				<ul class="card-text font-weight-light list-group list-group-flush">
 				
-					<li class="list-group-item">My research focuses on developing algorithms for machine learning and applying my methods in order to study how machines can mimic humans in congitive tasks, especially those related to Language.</li>
+					<td class="p-0 pl-2 font-weight-light text-left">Hindi (native), English (fluent), Marwari (beginner), Punjabi (beginner), Sanskrit (beginner)</td>
 				
 					<li class="list-group-item">I am also interested in creating AI agents that can understand language and reason, therefore I have also worked on natural language processing with a focus on negotiation, persuasion, dialogue and question answering.</li>
 				
