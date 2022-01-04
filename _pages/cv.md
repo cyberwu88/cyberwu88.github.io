@@ -72,7 +72,7 @@ My research focuses
 				
 					<td class="p-0 pl-2 font-weight-light text-left">Hindi (native), English (fluent), Marwari (beginner), Punjabi (beginner), Sanskrit (beginner)</td>
 				
-					<li class="list-group-item">I am also interested in creating AI agents that can understand language and reason, therefore I have also worked on natural language processing with a focus on negotiation, persuasion, dialogue and question answering.</li>
+					<li class="p-0 pl-2 font-weight-light text-left">I am also interested in creating AI agents that can understand language and reason, therefore I have also worked on natural language processing with a focus on negotiation, persuasion, dialogue and question answering.</li>
 				
 					<li class="list-group-item">I am passionate about focusing my efforts in advancing low resource NLP and I am specifically working on multilingual summarization.</li>
 				
