@@ -30,55 +30,23 @@ My research focuses
 
 
 <div class="cv">
-	<div class="card mt-3 p-3">
-		<h3 class="card-title">General Information</h3>
-			<div>
-			
-				<table class="table table-sm table-borderless">
-					
-						<tr>
-							<td class="p-0 pr-2 font-weight-bold text-right"><b>Full Name</b></td>
-							<td class="p-0 pl-2 font-weight-light text-left">Rishabh Joshi</td>
-						</tr>
-					
-						<tr>
-							<td class="p-0 pr-2 font-weight-bold text-right"><b>Contact</b></td>
-							<td class="p-0 pl-2 font-weight-light text-left">rishabhjoshi0407 [at] gmail [dot] com</td>
-						</tr>
-					
-						<tr>
-							<td class="p-0 pr-2 font-weight-bold text-right"><b>Languages</b></td>
-							<td class="p-0 pl-2 font-weight-light text-left">Hindi (native), English (fluent), Marwari (beginner), Punjabi (beginner), Sanskrit (beginner)</td>
-						</tr>
-					
-				</table>
-			
-			</div>
-		</div>
-	
-		<div class="card mt-3 p-3">
-			<h3 class="card-title">Research Areas</h3>
-			<div>
-			
-				<ul class="card-text font-weight-light list-group list-group-flush">
-				
-					<td class="p-0 pl-2 font-weight-light text-left">Hindi (native), English (fluent), Marwari (beginner), Punjabi (beginner), Sanskrit (beginner)</td>
-				
-					<li class="p-0 pl-2 font-weight-light text-left">I am also interested in creating AI agents that can understand language and reason, therefore I have also worked on natural language processing with a focus on negotiation, persuasion, dialogue and question answering.</li>
-				
-					<li class="list-group-item">I am passionate about focusing my efforts in advancing low resource NLP and I am specifically working on multilingual summarization.</li>
-				
-					<li class="list-group-item">I also like to think about knowledge and knowledge proliferation in our society.</li>
-				
-				</ul>
-			
-			</div>
-		</div>
-	
+
 		<div class="card mt-3 p-3">
 			<h3 class="card-title">Education</h3>
 			<div>
 			
+				gkfdngknfdgnkfdgnkdfnk
+				gdfgfdgfdgfdgfdg
+				dfgfd
+				g
+				fd
+				gdf
+				gfd
+				
+				gd
+				fg
+				d
+				
 				<ul class="card-text font-weight-light list-group list-group-flush">
 				
 					<li class="list-group-item">
