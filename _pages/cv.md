@@ -28,27 +28,12 @@ My research focuses
   <li>Fourth item</li>
 </ol> 
 
-<!DOCTYPE html>
+
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Rishabh Joshi | Resume</title>
-  <meta name="description" content="Personal website of Rishabh Joshi.">
-
-  <!-- Fonts and Icons -->
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons" />
-
-  <!-- CSS Files -->
-  <link rel="stylesheet" href="/assets/css/all.min.css">
-  <link rel="stylesheet" href="/assets/css/academicons.min.css">
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/cv/">
-</head>
 <body>
   <!-- Header -->
-  <nav id="navbar" class="navbar fixed-top navbar-expand-md grey lighten-5 z-depth-1 navbar-light">
+  <nav id="navbar" class="navbar fixed-top navbar-expand-md black lighten-5 z-depth-1 navbar-light">
     <div class="container-fluid p-0">
       
         <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Rishabh</span> Joshi</a>
@@ -560,7 +545,7 @@ My research focuses
 			</div>
 		</div>
 	
-</div>
+
 
 
   </div>
