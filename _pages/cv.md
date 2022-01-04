@@ -12,6 +12,7 @@ nav: cv
 	</a>
 </div>
 
+
 General Information
 Full Name:
 Contact: 
@@ -21,7 +22,7 @@ Research Areas
 My research focuses
 
 <div class="news">
-            <h2>News</h2>
+            <h2>Education</h2>
             {% if site.news  -%} 
             <div class="table-responsive">
               <table class="table table-sm table-borderless">
@@ -45,8 +46,4 @@ My research focuses
           {%- endif %} 
           </div>
 
-
- <div class="publications">
-       <h2>Selected Publications</h2>
-    {% bibliography -f papers -q @*[selected=true]* %}
-       </div>
+*item once
