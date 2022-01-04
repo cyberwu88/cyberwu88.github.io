@@ -28,14 +28,6 @@ My research focuses
   <li>Fourth item</li>
 </ol> 
 
-<!-- Fonts and Icons -->
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons" />
-
- <!-- CSS Files -->
-  <link rel="stylesheet" href="/assets/css/all.min.css">
-  <link rel="stylesheet" href="/assets/css/academicons.min.css">
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="canonical" href="/cv/">
 
 <div class="cv">
 	<div class="card mt-3 p-3">
@@ -199,7 +191,7 @@ My research focuses
 									<ul class="items">
 										
 										    <li>
-												
+												<item stuff>
 													<span class="item">Advised by Profs. Yulia Tsvetkov, Alan W Black and Alexander Rudnicky</span>
 												
 											</li>
