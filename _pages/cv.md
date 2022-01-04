@@ -29,9 +29,8 @@ My research focuses
 </ol> 
 
 <div class="cv">
-	
-		<div class="card mt-3 p-3">
-			<h3 class="card-title">General Information</h3>
+	<div class="card mt-3 p-3">
+		<h3 class="card-title">General Information</h3>
 			<div>
 			
 				<table class="table table-sm table-borderless">
