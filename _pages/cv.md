@@ -32,6 +32,12 @@ Languages: English(Native), Cantonese(Fluent)
 <p>I have recently completed my PhD in Cyber Security, where my research focused on developing tools and methods to aid in the forensic investigation of IoT devices. In completing my PhD, I demonstrated excellent analytical skills of network traffic and applied machine learning techniques. I remain passionate about understanding new security threats.</p>
 <p>My research focuses</p>
 
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
 
 
 
