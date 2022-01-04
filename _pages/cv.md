@@ -18,7 +18,7 @@ Full Name:
 Contact: 
 Languages: English(Native), Cantonese(Fluent)
 
-Research Areas
+<h2>Research Areas</h2>
 <p>My research focuses</p>
 <p>My research focuses</p>
 
