@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+ 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests in security and forensics include IoT, ICS/SCADA, Maritime.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I previously worked as a Research Engineer with Airbus Group Innovations (previously known as EADS Innovation Works) . My focus in research and development is on Industry Control Systems Cyber Security and Digital Forensics. My role required me to work on external projects, present research results, manage my own workload and work as part of a team. As part of my role I implemented the digital forensic testbed and SIEM AlienVault for research purposes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time I like to understand various attack scenarios. This requires me to use various ethical hacking techniques mainly using automated penetration testing tools such as Kali Linux, Nmap and Metasploit. I enjoy looking at various types of malware and understanding the different techniques currently available to analyse malware. I previously held the SANS 508 course in Advanced Computer Forensics and Incident Response where I have gained vast knowledge in live forensics and extracting and analysing forensic artefacts from memory images.
+
+Previously I volunteered for the Humberside Police Hi-Tech Unit and the Internet Sex Offenders Unit triaging. This required me to examine digital media devices for sensitive images, work as part of a team and write reports.
