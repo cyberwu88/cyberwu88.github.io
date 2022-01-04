@@ -19,15 +19,19 @@ Contact:
 Languages: English(Native), Cantonese(Fluent)
 
 <h3>Research Areas</h3>
-<p>My research focuses</p>
+<p>I have recently completed my PhD in Cyber Security, where my research focused on developing tools and methods to aid in the forensic investigation of IoT devices. In completing my PhD, I demonstrated excellent analytical skills of network traffic and applied machine learning techniques. I remain passionate about understanding new security threats.</p>
 <p>My research focuses</p>
 
-<ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ol> 
+<h3>Education</h3>
+<p>University of Oxford</p>
+
+<p>I have recently completed my PhD in Cyber Security, where my research focused on developing tools and methods to aid in the forensic investigation of IoT devices. In completing my PhD, I demonstrated excellent analytical skills of network traffic and applied machine learning techniques. I remain passionate about understanding new security threats.</p>
+<p>My research focuses</p>
+
+<h3>Experience</h3>
+<p>I have recently completed my PhD in Cyber Security, where my research focused on developing tools and methods to aid in the forensic investigation of IoT devices. In completing my PhD, I demonstrated excellent analytical skills of network traffic and applied machine learning techniques. I remain passionate about understanding new security threats.</p>
+<p>My research focuses</p>
+
 
 
 
