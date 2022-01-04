@@ -44,3 +44,9 @@ My research focuses
             <p>No news so far...</p>
           {%- endif %} 
           </div>
+
+
+ <div class="publications">
+       <h2>Selected Publications</h2>
+    {% bibliography -f papers -q @*[selected=true]* %}
+       </div>
