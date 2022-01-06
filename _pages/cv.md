@@ -39,6 +39,13 @@ DPhil in Cyber Security
   <li>Nottingham Trent University</li>
 </ul> 
 
+ <div class="news">
+            <h2>University</h2>
+
+                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <td>
+
+          </div>
 
 
 
