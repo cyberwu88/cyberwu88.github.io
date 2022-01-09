@@ -39,7 +39,7 @@ DPhil in Cyber Security
   <li>Nottingham Trent University</li>
 </ul> 
 
-<div class="card mt-3 p-3">
+
 			<h3 class="card-title">Education</h3>
 			<div>
 			
@@ -58,32 +58,4 @@ DPhil in Cyber Security
 								
 								<h6 class="title font-weight-bold ml-1 ml-md-4">Carnegie Mellon University – Master in Language Technologies</h6>
 								
-								
-									<ul class="items">
-										
-										    <li>
-												
-													<span class="item">Co-advised by <a href="http://www.cs.cmu.edu/~awb/" target="_blank"><b>Prof. Alan W. Black</b></a>, <a href="http://www.cs.cmu.edu/~ytsvetko/" target="_blank"><b>Prof. Yulia Tsvetkov</b></a> and <a href="http://www.cs.cmu.edu/~air/" target="_blank"><b>Prof. Alexander Rudnicky</b></a></span>
-												
-											</li>
-										
-										    <li>
-												
-													<span class="item">GPA: 3.94 / 4.33</span>
-												
-											</li>
-										
-										    <li>
-												
-													<span class="item">PhD level Courses: Intro to ML, Algos for NLP, NN for NLP, Ethics and Propaganda in NLP, Deep RL, Multilingula NLP, Dialogue Seminar, Probabilisic Graphical Models, Question Answering</span>
-												
-											</li>
-										
-									</ul>
-								
-								
-							</div>
-						</div>
-					</li>
-	
-	
+
