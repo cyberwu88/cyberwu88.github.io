@@ -7,7 +7,7 @@ nav: cv
 
 <!-- Place PDF download link at the top right. -->
 <div class="row" style="margin-top: -3.5em;">
-	<a class="ml-auto mr-2" href="/assets/pdf/Tina_Wu__CV_academia_2022.pdf" target="_blank">
+	<a class="ml-auto mr-2" href="/assets/pdf/vitae.pdf" target="_blank">
 	  <img height="60px" src="/assets/img/pdf_icon.svg">
 	</a>
 </div>
@@ -22,16 +22,15 @@ nav: cv
 
 ### Education ###
 
-| **University**         | 	
-| Oct. 2010              | Dr. rer. nat. (Ph.D.) in Physics, Johannes Gutenberg University, Mainz, Germany
+	
+| Oct. 2010              | Dr. rer. nat. (Ph.D.) in Physics, Johannes Gutenberg University, Mainz, Germany |
+													   |
 |                        |
 | Nov. 2006              | Diploma (M.Sc.) in Physics, University of Leipzig, Germany
 |                        | Minors: Meteorology, Chemistry |
-|                        |
-| **School**             |
-| July 2000              | Abitur, Gymnasium Brandis, Germany
-|                        | Major field of study: Mathematics, Physics
-|                        |
+
+University of Oxford     | Oxford
+PhD in Cyber Security	 | Oct 2014 - Sep 2020									    |
 
 
 ### Work Experience ###
