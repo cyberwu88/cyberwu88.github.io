@@ -17,7 +17,9 @@ nav: cv
 
 | **Name**                | Tina Wu
 |  **Languages**          | English (Native), Cantonese (Fluent)
-|   <div class="col-sm-2 abbr"><abbr class="badge">Conference</abbr></div>   |
+  <span class="badge danger-color-dark darken-1 font-weight-bold text-uppercase align-middle date ml-3">
+          Dec 3, 2020
+        </span>
 
 
 ### Education ###
