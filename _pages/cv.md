@@ -15,7 +15,7 @@ nav: cv
 
 ### Personal Information ###
 
-| **Name**               | Christoph Junghans
+| **Name**               | Tina Wu
 |                        | ![Image of Christoph](../assets/img/junghans.jpg)
 |                        |
 
@@ -23,14 +23,14 @@ nav: cv
 ### Education ###
 
 	
-| Oct 2014 - Sep 2020	 | University of Oxford, Oxford, UK
+| Oct. 2014 - Sep. 2020	 | University of Oxford, Oxford, UK
 |			 | PhD in Cyber Security 
 |			 |										   
 |                        |
-| Nov 2010 - Nov 2011    | University of Derby, Derby, UK 
+| Nov. 2010 - Nov. 2011  | University of Derby, Derby, UK 
 |                        | MSc in Forensic Computing and Security (Merit)
 |			 |
-| Jul 2007 - July 2010   | Nottingham Trent University, Nottingham, UK 
+| Jul. 2007 - Jul. 2010  | Nottingham Trent University, Nottingham, UK 
 |                        | BSc in Forensic Science (2.1)	   
 
 
@@ -42,20 +42,8 @@ table td:first-of-type {
 }
 </style>
 
-| Feb. 2021 - Present    | Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
-| July 2018 - Feb. 2021  | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| Jan. 2017 - July 2018  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| May  2014 - July 2018  | Staff Scientist, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| Mar. 2013 - Apr. 2014  | Director's Postdoc. Fellow, Theoretical Division, Los Alamos National Lab
-| Nov. 2011 - Feb. 2013  | Postdoc. Research Assistant, Theoretical Division, Los Alamos National Lab
-| May  2012  - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA
-| Nov. 2010 - Oct. 2011  | Postdoc. Research Assistant, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
-| Jan. 2007 - Oct. 2010  | PhD Student, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
-| Jan. 2009 - July 2009  | Internship as Specialist for Application Performance & Deep Computing, IBM Systems & Technology Group
-| Oct. 2003 - Sep. 2006  | Student Assistant, Institute for Theoretical Physics, University of Leipzig
-| Aug. 2005 - Oct. 2005  | Visiting students program "Scientific Computing", Jülich Supercomputing Centre, Germany
-| Sep. 2004              | Student Assistant, Institute for Meteorology, University of Leipzig
-| Feb. 2003 - Apr. 2003  | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Halle, Germany
-| Mar. 2002              | Student Assistant, Institute for Theoretical Physics, University of Leipzig
-| |
+| Apr. 2021 - Present    | Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
+| Oct. 2020 - May 2021    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
+| Oct. 2012 - Oct. 2014  | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
+| May 2012  - Aug. 2012  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
+
