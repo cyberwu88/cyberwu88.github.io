@@ -23,15 +23,15 @@ nav: cv
 ### Education ###
 
 	
-| Oct. 2014 - Sep. 2020	 | University of Oxford, Oxford, UK
-|			 | PhD in Cyber Security 
-|			 | Thesis: Digital Forensic Investigation of IoT Devices: Tools and Methods									   
-| Nov. 2010 - Nov. 2011  | University of Derby, Derby, UK 
-|                        | MSc in Forensic Computing and Security (Merit)
-|			 |
-| Jul. 2007 - Jul. 2010  | Nottingham Trent University, Nottingham, UK 
-|                        | BSc in Forensic Science (2.1)	   
-|			 |	
+| 'Oct. 2014 - Sep. 2020' | University of Oxford, Oxford, UK
+|			  | PhD in Cyber Security 
+|			  | Thesis: Digital Forensic Investigation of IoT Devices: Tools and Methods									   
+| Nov. 2010 - Nov. 2011   | University of Derby, Derby, UK 
+|                         | MSc in Forensic Computing and Security (Merit)
+|			  |
+| Jul. 2007 - Jul. 2010   | Nottingham Trent University, Nottingham, UK 
+|                         | BSc in Forensic Science (2.1)	   
+|			  |	
 
 
 ### Work Experience ###
