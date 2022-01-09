@@ -23,14 +23,15 @@ nav: cv
 ### Education ###
 
 	
-| Oct. 2010              | Dr. rer. nat. (Ph.D.) in Physics, Johannes Gutenberg University, Mainz, Germany |
-													   |
+| Oct 2014 - Sep 2020	 | University of Oxford, Oxford, UK
+|			 | PhD in Cyber Security 
+|			 |										   
 |                        |
-| Nov. 2006              | Diploma (M.Sc.) in Physics, University of Leipzig, Germany
-|                        | Minors: Meteorology, Chemistry |
-
-University of Oxford     | Oxford
-PhD in Cyber Security	 | Oct 2014 - Sep 2020									    |
+| Nov 2010 - Nov 2011    | University of Derby, Derby, UK 
+|                        | MSc in Forensic Computing and Security (Merit)
+|			 |
+| Jul 2007 - July 2010   | Nottingham Trent University, Nottingham, UK 
+|                        | BSc in Forensic Science (2.1)	   
 
 
 ### Work Experience ###
