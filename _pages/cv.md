@@ -21,9 +21,8 @@ nav: cv
 
 
 ### Education ###
-
 	
-| **`Oct 2014 - Sep 2020`**    | University of Oxford, Oxford, UK
+| `Oct 2014 - Sep 2020`    | University of Oxford, Oxford, UK
 |			   | PhD in Cyber Security 
 |			   | Thesis: Digital Forensic Investigation of IoT Devices: Tools and Methods
 |		           |
