@@ -42,8 +42,8 @@ table td:first-of-type {
 }
 </style>
 
-| Apr. 2021 - Present    | Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
-| Oct. 2020 - May 2021    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
+| Apr. 2021 - Present    | Ofgem, Cyber Security Researcher
+| Oct. 2020 - May 2021   | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
 | Oct. 2012 - Oct. 2014  | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | May 2012  - Aug. 2012  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 
