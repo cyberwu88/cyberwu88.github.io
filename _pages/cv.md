@@ -22,9 +22,7 @@ nav: cv
 
 ### Education ###
 	
-|   <span class="badge danger-color-dark darken-1 font-weight-bold text-uppercase align-middle date ml-3">
-          Dec 3, 2020
-        </span>    | University of Oxford, Oxford, UK
+| `Dec 3, 2020`		   | University of Oxford, Oxford, UK
 |			   | PhD in Cyber Security 
 |			   | Thesis: Digital Forensic Investigation of IoT Devices: Tools and Methods
 |		           |
